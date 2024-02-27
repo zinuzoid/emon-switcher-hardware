@@ -1,0 +1,3 @@
+# Electric Monitoring and Switcher v0.1
+
+This is a hardware capable of monitor household AC voltage and current which will be pass to RaspberryPi-Zero2W. It has 2 relay outputs and 2 LEDs. 
